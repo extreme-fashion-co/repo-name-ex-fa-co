@@ -2,8 +2,8 @@ body {margin:0;padding:0;}
 
 .iframe-frame {
 	display: block;
-	width: 100vw;
-	height: 100vh;
+	width: auto;
+	height: auto;
 	max-width: 100%;
 	margin: 0;
 	padding: 0;
