@@ -14,7 +14,7 @@ body {margin:0;padding:0;}
 
 /* Height value unit cannot be in "px", must be in "vh", which means to viewport-height. */
 
-.div01 {
+.classdiv01 {
 	margin: 0;
 	padding: 0;
 	width: 100vw;
