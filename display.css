@@ -23,7 +23,7 @@ body {margin:0;padding:0;}
 }
 
 @media screen and (max-width: 481px) {
-	.html-body {
+	.iframe-frame {
 		padding-right: 0;
 		padding-left: 0;
 		-ms-flex-flow: row nowrap;
